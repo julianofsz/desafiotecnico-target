@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sequenciaFibonacci", "desafio-tecnico-targetsistemas\sequenciaFibonacci.csproj", "{17E6E852-53BC-4BF1-B07B-F5052BC194AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindString", "FindString\FindString.csproj", "{FA958109-59FC-4DC0-9EA2-DC074EE6C162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E6E852-53BC-4BF1-B07B-F5052BC194AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E6E852-53BC-4BF1-B07B-F5052BC194AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E6E852-53BC-4BF1-B07B-F5052BC194AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E6E852-53BC-4BF1-B07B-F5052BC194AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA958109-59FC-4DC0-9EA2-DC074EE6C162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA958109-59FC-4DC0-9EA2-DC074EE6C162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA958109-59FC-4DC0-9EA2-DC074EE6C162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA958109-59FC-4DC0-9EA2-DC074EE6C162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C81B70D4-D6C4-431F-BE66-249A041B6155}
+	EndGlobalSection
+EndGlobal

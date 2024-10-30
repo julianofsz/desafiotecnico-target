@@ -1,0 +1,14 @@
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\bin\Debug\net8.0\FindString.exe
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\bin\Debug\net8.0\FindString.deps.json
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\bin\Debug\net8.0\FindString.runtimeconfig.json
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\bin\Debug\net8.0\FindString.dll
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\bin\Debug\net8.0\FindString.pdb
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.AssemblyInfoInputs.cache
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.AssemblyInfo.cs
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.csproj.CoreCompileInputs.cache
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.dll
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\refint\FindString.dll
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.pdb
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\FindString.genruntimeconfig.cache
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\FindString\obj\Debug\net8.0\ref\FindString.dll

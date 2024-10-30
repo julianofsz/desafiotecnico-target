@@ -1,0 +1,14 @@
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\bin\Debug\net8.0\sequenciaFibonacci.exe
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\bin\Debug\net8.0\sequenciaFibonacci.deps.json
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\bin\Debug\net8.0\sequenciaFibonacci.runtimeconfig.json
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\bin\Debug\net8.0\sequenciaFibonacci.dll
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\bin\Debug\net8.0\sequenciaFibonacci.pdb
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.AssemblyInfoInputs.cache
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.AssemblyInfo.cs
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.dll
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\refint\sequenciaFibonacci.dll
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.pdb
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\sequenciaFibonacci.genruntimeconfig.cache
+C:\Users\jufel\source\repos\desafio-tecnico-targetsistemas\desafio-tecnico-targetsistemas\obj\Debug\net8.0\ref\sequenciaFibonacci.dll
